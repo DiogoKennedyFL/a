@@ -115,7 +115,7 @@ section.imagem > .item > p{
     text-shadow: 2px 2px 0px black;
     position: absolute;
     top: 420px;
-    left: 160px;
+    left: 5vw;
     text-transform: uppercase;
     font-size: 1.2em;
     font-family: 'base', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
