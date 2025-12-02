@@ -137,8 +137,9 @@ section#img02 {
     width: 0vw;     /* largura proporcional à tela */
     height: auto;    /* mantém proporção correta */
     position: absolute; /* ou absolute, se for o caso */
-    right: 43vw;      
+    right: 35vw;      
     margin-top: 10vh;
+    margin-right: 100px;
 }
 
 .principal {
